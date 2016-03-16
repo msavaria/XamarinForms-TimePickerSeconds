@@ -1,2 +1,2 @@
 # XamarinForms-TimePickerSeconds
-Bindable timepicker control with seconds for Xamarin Forms
+Bindable timepicker control with seconds for Xamarin Forms iOS
